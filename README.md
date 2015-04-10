@@ -13,6 +13,12 @@ Si lo deshabilita, su estado mostrará el valor predeterminado Disponible u Ocup
 
 Si desea mostrar a sus contactos la caratula del album que estás escuchando en ese mismo momento, marque "Enable Album Art" desde la ventana de complementos.
 
+### Descargalo
+
+Compatible con Thunderbird / Icedove / Guacharo / Instantbird <br>
+https://addons.mozilla.org/addon/radiognu/ <br>
+https://addons.instantbird.org/addon/380/
+
 ### Acerca de
 
 RadioGNU (se pronuncia RadioÑú) es un espacio radial donde se difunden los valores del Software Libre. Es principalmente un medio para tecnólogos, pero acepta distintas manifestaciones científicas y culturales que sostienen la defensa de valores éticos al compartir el arte y el conocimiento.
